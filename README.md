@@ -7,6 +7,7 @@ User Authentication: Users can create accounts, log in, and log out securely.
 Product Listings: Browse products from different categories with detailed descriptions.
 Shopping Cart: Add products to the cart for purchase.
 Search Functionality: Search for products based on keywords or categories.
+Pagination: You can explore more products using pagination.
 Responsive Design: The website is optimized for various devices, including desktops, tablets, and smartphones.
 
 Technologies Used
